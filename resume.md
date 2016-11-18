@@ -3,7 +3,6 @@ me@aaronburrows.com
 
 Aaron Burrows is a front-end web developer and UX designer with high attention to detail and a focus on semantics and web standards. He specializes in providing clean, well organized markup and style and has a sharp understanding of how to create beautiful code, deal with browser inconsistencies, and push the user experience forward with responsive design and emerging HTML and CSS standards. He is an experienced web developer who has been involved with some interesting projects creating e-commerce sites, Q&A sites, Custom WordPress templates, PHP templates using MySQL, web apps, and mobile site layouts. He can hold his own in a text-based code editor, is experienced with version control systems, and is comfortable on a Mac or a PC.
 
-
 ## Technical Expertise
 * Front-end design, user experience design and layout
 * HTML5
@@ -16,8 +15,6 @@ Aaron Burrows is a front-end web developer and UX designer with high attention t
 * Content Management Systems (WordPress, Umbraco)
 * Microsoft Visual Studio 2012
 * Git and TFS version control systems
-
----
 
 ## Employment
 ### Rawlings Sporting Goods (2012– present)
@@ -56,8 +53,6 @@ Aaron Burrows is a front-end web developer and UX designer with high attention t
 ### designsby.us (2004–2010)
 #### Part owner/Web design and development
 * Developed marketing and ecommerce solutions for small businesses using HTML and CSS along with JavaScript and PHP templating/shopping cart systems.
-
----
 
 ## Education
 ### St. Charles Community College, Cottleville, Missouri (2005)
